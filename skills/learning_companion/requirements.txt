@@ -1,0 +1,5 @@
+# Learning Companion dependencies
+# Minimal - uses mostly Python standard library
+
+# No external dependencies required
+# Core uses: json, hashlib, typing, datetime, re

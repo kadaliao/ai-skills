@@ -1,0 +1,6 @@
+interface:
+  display_name: "Logseq Organizer"
+  short_description: "Organize Logseq notes without rigid templates"
+  default_prompt: "Use $logseq-organizer to tidy my Logseq work notes while preserving flexible capture."
+policy:
+  allow_implicit_invocation: true
